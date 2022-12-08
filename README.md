@@ -1,3 +1,3 @@
 # Simple Sorting Visualizer
 
-## To practice dsNA and animated css
+## To practice data structures, algorithms, and animated css
